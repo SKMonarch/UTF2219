@@ -1,0 +1,75 @@
+[{
+    "Torneo": "FIVB Road to Paris Volleyball Qualifier Women",
+    "Grupo": "Pool B",
+    "Lugar": "Tokio, Japón",
+    "Fecha": "2023-09-16",
+    "Partidos": [
+      {
+        "Equipos": ["Belgium", "Bulgaria"],
+        "Hora de Inicio": "03:00"
+      },
+      {
+        "Equipos": ["Turkey (Türkiye)", "Puerto Rico"],
+        "Hora de Inicio": "06:00"
+      },
+      {
+        "Equipos": ["Brazil", "Argentina"],
+        "Hora de Inicio": "09:00"
+      },
+      {
+        "Equipos": ["Japan", "Peru"],
+        "Hora de Inicio": "12:25"
+      }
+    ]
+  },
+  {
+    "Torneo": "FIVB Road to Paris Volleyball Qualifier Women",
+    "Grupo": "Pool A",
+    "Lugar": "Ningbo, China",
+    "Fecha": "2023-09-16",
+    "Partidos": [
+      {
+        "Equipos": ["Serbia", "Mexico"],
+        "Hora de Inicio": "04:00"
+      },
+      {
+        "Equipos": ["Dominican Republic", "Czechia"],
+        "Hora de Inicio": "07:00"
+      },
+      {
+        "Equipos": ["Netherlands", "Canada"],
+        "Hora de Inicio": "10:00"
+      },
+      {
+        "Equipos": ["China", "Ukraine"],
+        "Hora de Inicio": "13:30"
+      }
+    ]
+  },
+  {
+    "Torneo": "FIVB Road to Paris Volleyball Qualifier Women",
+    "Grupo": "Pool C",
+    "Lugar": "Łódź, Polonia",
+    "Fecha": "2023-09-16",
+    "Partidos": [
+      {
+        "Equipos": ["United States", "Colombia"],
+        "Hora de Inicio": "11:30"
+      },
+      {
+        "Equipos": ["Germany", "Thailand"],
+        "Hora de Inicio": "14:30"
+      },
+      {
+        "Equipos": ["Poland", "Slovenia"],
+        "Hora de Inicio": "17:30"
+      },
+      {
+        "Equipos": ["Italy", "Korea"],
+        "Hora de Inicio": "20:45"
+      }
+    ]
+  }
+  
+]
+  
