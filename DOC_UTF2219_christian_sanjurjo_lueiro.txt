@@ -42,4 +42,13 @@ Planificación Blog (Volley)
 - BackUp incremental, 1 vez al dia(3am)
 
 
+//Equipos y sus Roles:
+
+- Grupo BackEnd (Encargados del mentenimieto y BackUps del CMS)
+- Grupo Contenido
+    - Autores (Se informan para la creacion del contenido)
+    - Editores ()
+    - Revisores
+
+
 
