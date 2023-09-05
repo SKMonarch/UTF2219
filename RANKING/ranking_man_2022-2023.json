@@ -1,0 +1,245 @@
+[
+    {
+      "posicion": 1,
+      "pais": "Polonia",
+      "nombre_pais": "POLONIA",
+      "puntos": 408.76
+    },
+    {
+      "posicion": 2,
+      "pais": "Estados Unidos",
+      "nombre_pais": "ESTADOS UNIDOS",
+      "puntos": 375.29
+    },
+    {
+      "posicion": 3,
+      "pais": "Italia",
+      "nombre_pais": "ITALIA",
+      "puntos": 365.85
+    },
+    {
+      "posicion": 4,
+      "pais": "Brasil",
+      "nombre_pais": "BRASIL",
+      "puntos": 337.28
+    },
+    {
+      "posicion": 5,
+      "pais": "Japón",
+      "nombre_pais": "JAPÓN",
+      "puntos": 334.34
+    },
+    {
+      "posicion": 6,
+      "pais": "Argentina",
+      "nombre_pais": "ARGENTINA",
+      "puntos": 318.81
+    },
+    {
+      "posicion": 7,
+      "pais": "Francia",
+      "nombre_pais": "FRANCIA",
+      "puntos": 312.98
+    },
+    {
+      "posicion": 8,
+      "pais": "Eslovenia",
+      "nombre_pais": "ESLOVENIA",
+      "puntos": 294.90
+    },
+    {
+      "posicion": 9,
+      "pais": "Serbia",
+      "nombre_pais": "SERBIA",
+      "puntos": 262.03
+    },
+    {
+      "posicion": 10,
+      "pais": "Irán",
+      "nombre_pais": "IRÁN",
+      "puntos": 243.55
+    },
+    {
+      "posicion": 11,
+      "pais": "Países Bajos",
+      "nombre_pais": "PAÍSES BAJOS",
+      "puntos": 241.57
+    },
+    {
+      "posicion": 12,
+      "pais": "Alemania",
+      "nombre_pais": "ALEMANIA",
+      "puntos": 194.98
+    },
+    {
+      "posicion": 13,
+      "pais": "Cuba",
+      "nombre_pais": "CUBA",
+      "puntos": 194.59
+    },
+    {
+      "posicion": 14,
+      "pais": "Turquía",
+      "nombre_pais": "TURQUÍA",
+      "puntos": 192.57
+    },
+    {
+      "posicion": 15,
+      "pais": "Ucrania",
+      "nombre_pais": "UCRANIA",
+      "puntos": 182.37
+    },
+    {
+      "posicion": 16,
+      "pais": "Katar",
+      "nombre_pais": "KATAR",
+      "puntos": 181.45
+    },
+    {
+      "posicion": 17,
+      "pais": "Canadá",
+      "nombre_pais": "CANADÁ",
+      "puntos": 180.20
+    },
+    {
+      "posicion": 18,
+      "pais": "Mexico",
+      "nombre_pais": "MEXICO",
+      "puntos": 176.82
+    },
+    {
+      "posicion": 19,
+      "pais": "Túnez",
+      "nombre_pais": "TÚNEZ",
+      "puntos": 170.22
+    },
+    {
+      "posicion": 20,
+      "pais": "Egipto",
+      "nombre_pais": "EGIPTO",
+      "puntos": 160.01
+    }
+  ]
+  [
+    {
+      "posicion": 21,
+      "pais": "República Checa",
+      "nombre_pais": "REPÚBLICA CHECA",
+      "puntos": 158.30
+    },
+    {
+      "posicion": 22,
+      "pais": "Portugal",
+      "nombre_pais": "PORTUGAL",
+      "puntos": 154.43
+    },
+    {
+      "posicion": 23,
+      "pais": "Rumania",
+      "nombre_pais": "RUMANIA",
+      "puntos": 143.69
+    },
+    {
+      "posicion": 24,
+      "pais": "Bélgica",
+      "nombre_pais": "BÉLGICA",
+      "puntos": 142.80
+    },
+    {
+      "posicion": 25,
+      "pais": "Croatia",
+      "nombre_pais": "CROATIA",
+      "puntos": 142.14
+    },
+    {
+      "posicion": 26,
+      "pais": "Camerún",
+      "nombre_pais": "CAMERÚN",
+      "puntos": 138.12
+    },
+    {
+      "posicion": 27,
+      "pais": "Chile",
+      "nombre_pais": "CHILE",
+      "puntos": 137.68
+    },
+    {
+      "posicion": 28,
+      "pais": "Corea",
+      "nombre_pais": "COREA",
+      "puntos": 137.46
+    },
+    {
+      "posicion": 29,
+      "pais": "Bulgaria",
+      "nombre_pais": "BULGARIA",
+      "puntos": 136.33
+    },
+    {
+      "posicion": 30,
+      "pais": "Finland",
+      "nombre_pais": "FINLAND",
+      "puntos": 135.67
+    },
+    {
+      "posicion": 31,
+      "pais": "Puerto Rico",
+      "nombre_pais": "PUERTO RICO",
+      "puntos": 134.82
+    },
+    {
+      "posicion": 32,
+      "pais": "China",
+      "nombre_pais": "CHINA",
+      "puntos": 134.52
+    },
+    {
+      "posicion": 33,
+      "pais": "Spain",
+      "nombre_pais": "SPAIN",
+      "puntos": 130.36
+    },
+    {
+      "posicion": 34,
+      "pais": "República Dominicana",
+      "nombre_pais": "REPÚBLICA DOMINICANA",
+      "puntos": 126.65
+    },
+    {
+      "posicion": 35,
+      "pais": "Australia",
+      "nombre_pais": "AUSTRALIA",
+      "puntos": 118.27
+    },
+    {
+      "posicion": 36,
+      "pais": "North Macedonia",
+      "nombre_pais": "NORTH MACEDONIA",
+      "puntos": 115.66
+    },
+    {
+      "posicion": 37,
+      "pais": "Greece",
+      "nombre_pais": "GREECE",
+      "puntos": 114.81
+    },
+    {
+      "posicion": 38,
+      "pais": "Suiza",
+      "nombre_pais": "SUIZA",
+      "puntos": 110.30
+    },
+    {
+      "posicion": 39,
+      "pais": "Slovakia",
+      "nombre_pais": "SLOVAKIA",
+      "puntos": 107.82
+    },
+    {
+      "posicion": 40,
+      "pais": "Letonia",
+      "nombre_pais": "LETONIA",
+      "puntos": 105.46
+    }
+  ]
+    
