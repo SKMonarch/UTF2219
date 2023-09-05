@@ -36,3 +36,10 @@ Planificación Blog (Volley)
 - Informe previo (Noticias del dia anterior posterior al medio dia,publicadas al dia sigueiten. Noticias por la mañana se publican a la tarde de ese mismo dia.)
 - BackUp incremental,2 veces diarias (3am/6pm)
 
+# Eventos Calendario
+
+- Post Diario (8am)
+- BackUp incremental, 1 vez al dia(3am)
+
+
+
