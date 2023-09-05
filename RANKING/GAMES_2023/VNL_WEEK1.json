@@ -1,0 +1,136 @@
+{
+    "Semana": "Semana 1",
+    "Grupo": "Grupo 1",
+    "Sede": "TD Place, Ottawa, Canadá",
+    "Fecha_Hora_Partidos": [
+      {
+        "Fecha": "6 de junio",
+        "Hora": "16:30",
+        "Equipo_1": "Italia",
+        "Sets_Equipo_1": "0 : 3",
+        "Equipo_2": "Argentina",
+        "Sets_Equipo_2": "22–25, 23–25, 18–25"
+      },
+      {
+        "Fecha": "6 de junio",
+        "Hora": "20:00",
+        "Equipo_1": "Canadá",
+        "Sets_Equipo_1": "3 : 2",
+        "Equipo_2": "Cuba",
+        "Sets_Equipo_2": "25–21, 26–28, 25–21, 22–25, 15–13"
+      },
+      {
+        "Fecha": "7 de junio",
+        "Hora": "16:30",
+        "Equipo_1": "Estados Unidos",
+        "Sets_Equipo_1": "3 : 0",
+        "Equipo_2": "Países Bajos",
+        "Sets_Equipo_2": "25–19, 25–23, 25–21"
+      },
+      {
+        "Fecha": "7 de junio",
+        "Hora": "20:00",
+        "Equipo_1": "Brasil",
+        "Sets_Equipo_1": "3 : 1",
+        "Equipo_2": "Alemania",
+        "Sets_Equipo_2": "26–24, 25–16, 19–25, 25–15"
+      },
+      {
+        "Fecha": "8 de junio",
+        "Hora": "11:00",
+        "Equipo_1": "Países Bajos",
+        "Sets_Equipo_1": "3 : 0",
+        "Equipo_2": "Cuba",
+        "Sets_Equipo_2": "28–26, 25–23, 25–18"
+      },
+      {
+        "Fecha": "8 de junio",
+        "Hora": "16:30",
+        "Equipo_1": "Italia",
+        "Sets_Equipo_1": "0 : 3",
+        "Equipo_2": "Estados Unidos",
+        "Sets_Equipo_2": "15–25, 18–25, 19–25"
+      },
+      {
+        "Fecha": "8 de junio",
+        "Hora": "20:00",
+        "Equipo_1": "Argentina",
+        "Sets_Equipo_1": "2 : 3",
+        "Equipo_2": "Brasil",
+        "Sets_Equipo_2": "25–19, 19–25, 25–23, 23–25, 13–15"
+      },
+      {
+        "Fecha": "9 de junio",
+        "Hora": "11:00",
+        "Equipo_1": "Países Bajos",
+        "Sets_Equipo_1": "3 : 0",
+        "Equipo_2": "Alemania",
+        "Sets_Equipo_2": "25–20, 33–31, 25–21"
+      },
+      {
+        "Fecha": "9 de junio",
+        "Hora": "16:30",
+        "Equipo_1": "Italia",
+        "Sets_Equipo_1": "3 : 1",
+        "Equipo_2": "Cuba",
+        "Sets_Equipo_2": "25–20, 25–19, 20–25, 25–18"
+      },
+      {
+        "Fecha": "9 de junio",
+        "Hora": "20:00",
+        "Equipo_1": "Canadá",
+        "Sets_Equipo_1": "1 : 3",
+        "Equipo_2": "Argentina",
+        "Sets_Equipo_2": "21–25, 25–21, 21–25, 16–25"
+      },
+      {
+        "Fecha": "10 de junio",
+        "Hora": "11:00",
+        "Equipo_1": "Alemania",
+        "Sets_Equipo_1": "1 : 3",
+        "Equipo_2": "Italia",
+        "Sets_Equipo_2": "23–25, 18–25, 27–25, 19–25"
+      },
+      {
+        "Fecha": "10 de junio",
+        "Hora": "16:30",
+        "Equipo_1": "Brasil",
+        "Sets_Equipo_1": "2 : 3",
+        "Equipo_2": "Cuba",
+        "Sets_Equipo_2": "16–25, 25–22, 29–27, 22–25, 18–20"
+      },
+      {
+        "Fecha": "10 de junio",
+        "Hora": "20:00",
+        "Equipo_1": "Canadá",
+        "Sets_Equipo_1": "0 : 3",
+        "Equipo_2": "Estados Unidos",
+        "Sets_Equipo_2": "22–25, 20–25, 20–25"
+      },
+      {
+        "Fecha": "11 de junio",
+        "Hora": "11:00",
+        "Equipo_1": "Argentina",
+        "Sets_Equipo_1": "3 : 2",
+        "Equipo_2": "Países Bajos",
+        "Sets_Equipo_2": "34–36, 25–20, 25–17, 20–25, 15–10"
+      },
+      {
+        "Fecha": "11 de junio",
+        "Hora": "16:30",
+        "Equipo_1": "Estados Unidos",
+        "Sets_Equipo_1": "1 : 3",
+        "Equipo_2": "Brasil",
+        "Sets_Equipo_2": "19–25, 25–21, 15–25, 21–25"
+      },
+      {
+        "Fecha": "11 de junio",
+        "Hora": "18:00",
+        "Equipo_1": "Canadá",
+        "Sets_Equipo_1": "1 : 3",
+        "Equipo_2": "Alemania",
+        "Sets_Equipo_2": "25–20, 17–25, 21–25, 21–25"
+      }
+    ]
+  }
+  
