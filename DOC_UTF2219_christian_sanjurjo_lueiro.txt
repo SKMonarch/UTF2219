@@ -1,0 +1,38 @@
+Planificación Blog (Volley)
+    
+    * Informacion General 
+    
+    * Torneos Anuales (VNL,Torneo Europeo)
+        * Partidos   
+        * Equipos
+    
+    * Noticias
+        * Articulos
+
+    * Eventos calendario(Actualización Diaria)
+
+
+# Informacion General:
+
+- Nuevos posts,cada semana Lunes-8am.(Reglamento,Consejos,Nuevas estrategias,...)
+- Tratamiento informatico(XML/JSON a texto plano,sobre las novedades)
+- Documentacion almacenada en Repositorios Git-Hub,rama (dev/General-Data)
+- Informe previo a 2 días que contenga el estado de la informacion.
+- BackUp incremental,2 veces semanales (3am[Miercoles|Sabados])
+
+# Torneos Anuales:
+
+- Post Diario,3 veces al dia 8am/4pm/8pm(Estado del equipo,ranking,partidos,resultados)
+- Tratamiento informatico(XML/JSON a texto plano,sobre las novedades)
+- Documentacion almacenada en Repositorios Git-Hub,rama (dev/Tournament)
+- Informe previo de la organización del torneo de 4/2 meses antes del incio y 2 horas antes de la publicacion de post a las horas indicadas
+- BackUp incremental,3 veces diarias (3am/6am/2pm)
+
+# Noticias
+
+- Post Diario,2 veces al dia (8am/6pm)(Lesiones,estado del equipo,victorias,derrotas,...)
+- Tratamiento informatico(XML/JSON a texto plano,sobre las novedades)
+- Documentacion almacenada en Repositorios Git-Hub,rama (dev/News)
+- Informe previo (Noticias del dia anterior posterior al medio dia,publicadas al dia sigueiten. Noticias por la mañana se publican a la tarde de ese mismo dia.)
+- BackUp incremental,2 veces diarias (3am/6pm)
+
